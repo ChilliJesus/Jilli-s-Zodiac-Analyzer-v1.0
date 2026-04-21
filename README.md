@@ -1,4 +1,4 @@
-# KOSMOS — Astrologische Natal-Analyse PWA
+# KOSMOS — Astrologische Natal-Analyse PWA 
 
 ## Was ist das?
 Eine vollständige astrologische Horoskop-App als Progressive Web App (PWA).
